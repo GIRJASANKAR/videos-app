@@ -1,0 +1,10 @@
+.single-video{
+    display:flex !important;   
+    align-items: center !important;   
+    cursor:pointer !important;
+    
+}
+
+.single-video.item img{
+    max-width: 180px;
+}
